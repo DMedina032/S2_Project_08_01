@@ -14,7 +14,9 @@
 */
 
 /* Table Styles */
-
+table{
+  background-color: rgb(190, 215, 255) 
+}
 
 
 /* Column Styles */
